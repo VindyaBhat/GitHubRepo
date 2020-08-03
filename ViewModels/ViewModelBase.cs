@@ -1,0 +1,13 @@
+﻿using EnvironmentConfig.Common;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EnvironmentConfig.ViewModels
+{
+    public class ViewModelBase : NotifyPropertyChanged
+    {
+    }
+}

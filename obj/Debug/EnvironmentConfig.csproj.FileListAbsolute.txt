@@ -1,0 +1,91 @@
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe.config
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.pdb
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfigUserControl.g.cs
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.g.cs
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\App.g.cs
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.cache
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.lref
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfigUserControl.baml
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.baml
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.g.resources
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.Properties.Resources.resources
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.GenerateResource.Cache
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.exe
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.pdb
+D:\UserData\Z003YHEZ\Documents\Visual Studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\ResourceDictionary\Skin.baml
+d:\userdata\z003yhez\documents\visual studio 2015\Projects\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csprojResolveAssemblyReference.cache
+D:\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe.config
+D:\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe
+D:\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.pdb
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\ResourceDictionary\Skin.baml
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.g.cs
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\App.g.cs
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.cache
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.lref
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.baml
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.g.resources
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.Properties.Resources.resources
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.GenerateResource.Cache
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.exe
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.pdb
+D:\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csprojResolveAssemblyReference.cache
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe.config
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.pdb
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\ResourceDictionary\Skin.baml
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.g.cs
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.g.cs
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\App.g.cs
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.cache
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.lref
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.baml
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.baml
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.g.resources
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.Properties.Resources.resources
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.GenerateResource.Cache
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.exe
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.pdb
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe.config
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.exe
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.pdb
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\bin\Debug\EnvironmentConfig.pdb
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\ResourceDictionary\Skin.baml
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.g.cs
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.g.cs
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\App.g.cs
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.cache
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.lref
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.baml
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\MainWindow.baml
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.g.resources
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.Properties.Resources.resources
+D:\Mvvm Backup\EnvironmentConfig - latestCopy\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.GenerateResource.Cache
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\InstrumentOptionsUserControl.g.cs
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\InstrumentOptionsUserControl.baml
+D:\Mvvm Backup\EnvironmentConfig\EnvironmentConfig\obj\Debug\EnvironmentConfig.csprojResolveAssemblyReference.cache
+D:\NewPoc\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe.config
+D:\NewPoc\EnvironmentConfig\bin\Debug\EnvironmentConfig.exe
+D:\NewPoc\EnvironmentConfig\bin\Debug\EnvironmentConfig.pdb
+D:\NewPoc\EnvironmentConfig\obj\Debug\ResourceDictionary\Skin.baml
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.g.cs
+D:\NewPoc\EnvironmentConfig\obj\Debug\InstrumentOptionsUserControl.g.cs
+D:\NewPoc\EnvironmentConfig\obj\Debug\MainWindow.g.cs
+D:\NewPoc\EnvironmentConfig\obj\Debug\App.g.cs
+D:\NewPoc\EnvironmentConfig\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.cache
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig_MarkupCompile.lref
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentOptionsUserControl.baml
+D:\NewPoc\EnvironmentConfig\obj\Debug\InstrumentOptionsUserControl.baml
+D:\NewPoc\EnvironmentConfig\obj\Debug\MainWindow.baml
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.g.resources
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.Properties.Resources.resources
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.GenerateResource.Cache
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.exe
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.pdb
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.csproj.CoreCompileInputs.cache
+D:\NewPoc\EnvironmentConfig\obj\Debug\EnvironmentConfig.csprojAssemblyReference.cache

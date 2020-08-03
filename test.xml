@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ConfigurationSettings>
+   <ConfigurationSettings ConfigurationName="EnvironmentMode">
+      <setting Name="Production"
+                Value="true"/>
+
+      <setting Name="UAT"
+                Value="false"/>
+
+      <setting Name="Development"
+                Value="false"/>
+  </ConfigurationSettings>
+  <ConfigurationSettings ConfigurationName="OperationMode">
+      <setting Name="Camstar"
+                Value="true"/>
+
+      <setting Name="WOSM"
+                Value="false"/>
+  </ConfigurationSettings>
+  <ConfigurationSettings ConfigurationName="StationConfig">
+      <setting Name="Production"
+                Value="true"/>
+
+      <setting Name="UAT"
+                Value="false"/>
+
+      <setting Name="Development"
+                Value="false"/>
+  </ConfigurationSettings>
+</ConfigurationSettings>
